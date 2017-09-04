@@ -1,1 +1,3 @@
 Hi this is seethend
+
+tying to learn git bash on windows
